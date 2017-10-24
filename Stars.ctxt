@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Stars
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ firstPattern()
+comment3.params=
+comment3.target=void\ secondPattern()
+comment4.params=
+comment4.target=void\ thirdPattern()
+comment5.params=
+comment5.target=void\ fourthPattern()
+comment6.params=letter\ repeat
+comment6.target=void\ printPart(char,\ int)
+numComments=7
